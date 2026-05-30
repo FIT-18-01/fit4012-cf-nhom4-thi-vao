@@ -119,7 +119,7 @@ CF10_File_Upload_Vulnerability
 
 ## 7. Cách chạy project
 
-### Cách 1: Mở trực tiếp bằng trình duyệt
+### Cách 1: Chạy bằng VS code 
 
 1. Giải nén project.
 2. Vào thư mục:
