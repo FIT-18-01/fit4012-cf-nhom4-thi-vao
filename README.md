@@ -133,8 +133,8 @@ demo/
 ```text
 index.html
 ```
-
-4. Chọn trình duyệt Chrome, Edge hoặc Firefox để chạy.
+4. Run -> Start debugging
+5. Chọn trình duyệt Chrome, Edge hoặc Firefox để chạy.
 
 ### Cách 2: Chạy bằng VS Code Live Server
 
