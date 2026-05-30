@@ -225,7 +225,7 @@ Kết quả mong đợi:
 
 ---
 
-## 9. Luồng xử lý upload an toàn
+## 10. Luồng xử lý upload an toàn
 
 Luồng xử lý ở bản vá:
 
